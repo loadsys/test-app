@@ -1,0 +1,26 @@
+# Project-Specific Ignores
+
+
+# General Loadsys
+/config/app-local.php
+/backups/
+/.vagrant/
+/phpunit.xml
+
+# Composer Dependencies
+/vendor/*
+/node_modules
+
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
